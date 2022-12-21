@@ -5,6 +5,13 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+## Desarrolladores
+
+>Este proyecto fue realizado por
+> Matias Neira Henriquez
+> Bastian Carrillo Rebolledo
+> Benjamin Pastor Huentemil
+
 ## Descripción del programa: 
 
 - Un importante vulcanólogo, con objeto de estudiar las consecuencias destructoras de un volcán en una determinada área, pretende desarrollar un sistema informático que le ayude en su tarea. Para ello, nos pide que realicemos el siguiente subprograma junto con el programa necesario para realizar la prueba.
