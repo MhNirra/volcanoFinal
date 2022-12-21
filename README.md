@@ -169,8 +169,7 @@ Como metodologia de trabajo seguimos una serie de objetivos a cumplir para lleva
 
 ## Conclusión
 
-El hecho de haber aprendido a usar funciones nos ayudó a ser más ordenados y lograr trabajar en equipo
-de forma más ordenada.
+El proyecto nos ayudó a comprender el uso de las funciones
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
