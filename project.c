@@ -160,7 +160,8 @@ int main() {
 	int saveValor, row, column;
 	int Array[width][height];
 	int inRow, inColumn; //VARIABLES PARA ALMACENAR EL ALTO Y ANCHO DE LA MATRIZ.
-
+	
+	system("cls");
 	printf("\033[0;33m"); //PINTO LOS MENSAJES POR PANTALLA DE COLOR AMARILLO
 	//LE PIDO AL USUARIO EL ALTO Y ANCHO DE LA MATRIZ.
 	//BUCLE PARA QUE EL USARIO NO INGRESE UN NUMERO MENOR O IGUAL A 1.
