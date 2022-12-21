@@ -7,10 +7,11 @@
 
 ## Desarrolladores
 
->Este proyecto fue realizado por
-> Matias Neira Henriquez
-> Bastian Carrillo Rebolledo
-> Benjamin Pastor Huentemil
+Este proyecto fue desarrollado por: 
+
+- Matias Neira Henriquez
+- Bastian Carrillo Rebolledo
+- Benjamin Pastor Huentemil
 
 ## Descripción del programa: 
 
