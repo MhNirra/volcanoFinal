@@ -167,6 +167,13 @@ Como metodologia de trabajo seguimos una serie de objetivos a cumplir para lleva
 - Distribucion del trabajo
 - Juntarnos 2 dias a la semana como mínino para poder ver y analizar los cambios
 
+## Desarrolladores
+
+>Este proyecto fue realizado por
+> Matias Neira Henriquez
+> Bastian Carrillo Rebolledo
+> Benjamin Pastor Huentemil
+
 ## Conclusión
 
 El proyecto nos ayudó a comprender el uso de las funciones.
